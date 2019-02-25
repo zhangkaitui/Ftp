@@ -2,6 +2,16 @@
 # Date: 2019/1/29
 
 
+
+import sys
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(__file__))
+
+
+
+
+
 '''
 ftp/
     ├─ Client/
