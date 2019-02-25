@@ -58,7 +58,7 @@
 
 经过分析，我们可以画出流程图来更直观的理解作业需求。
 
-![ftp](assets/ftp.bmp)
+![ftp](https://github.com/zhangkaitui/Ftp/blob/master/ftp/img/ftp.bmp)
 
 
 
